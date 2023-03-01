@@ -1,5 +1,5 @@
 
-Aspirante a desenvolvedor Front-End
+###Aspirante a desenvolvedor Front-End
 
     Habilidades 🎇
 
@@ -10,7 +10,7 @@ Aspirante a desenvolvedor Front-End
     Silencioso
     
 
-    O que faço no meu tempo livre👌
+  ###  O que faço no meu tempo livre👌
     
     Leitura
     Estudo
