@@ -1,24 +1,24 @@
-<article>
-    <h2>Aspirante a desenvolvedor Front-End</h2>
 
-    <h3>Habilidades 🎇</h3>
+    Aspirante a desenvolvedor Front-End
 
-    <ul>
-        <li>Proativo</li>
-        <li>Calmo</li>
-        <li>Resiliente</li>
-        <li>Silencioso</li>
-    </ul>
+    Habilidades 🎇
 
-    <h3>O que faço no meu tempo livre 👌</h3>
-    <ul>
-        <li>Leitura</li>
-        <li>Estudo</li>
-        <li>Academia/Aeróbico</li>
-        <li>Filmes/Games</li>
-    </ul>
+    
+    Proativo
+    Calmo
+    Resiliente
+    Silencioso
+    
 
-</article>
+    O que faço no meu tempo livre👌
+    
+    Leitura
+    Estudo
+    Academia/Aeróbico
+    Filmes/Games
+    
+
+
 
 ......................................................................................................................................................................
 
