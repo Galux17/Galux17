@@ -1,5 +1,5 @@
 
-    Aspirante a desenvolvedor Front-End
+Aspirante a desenvolvedor Front-End
 
     Habilidades 🎇
 
