@@ -1,3 +1,28 @@
+<article>
+    <h2>Aspirante a desenvolvedor Front-End</h2>
+
+    <h3>Habilidades 🎇</h3>
+
+    <ul>
+        <li>Proativo</li>
+        <li>Calmo</li>
+        <li>Resiliente</li>
+        <li>Silencioso</li>
+    </ul>
+
+    <h3>O que faço no meu tempo livre 👌</h3>
+    <ul>
+        <li>Leitura</li>
+        <li>Estudo</li>
+        <li>Academia/Aeróbico</li>
+        <li>Filmes/Games</li>
+    </ul>
+
+</article>
+
+......................................................................................................................................................................
+
+
 <div>
   <a href="https://github.com/Galux17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
